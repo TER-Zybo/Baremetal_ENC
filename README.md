@@ -10,6 +10,8 @@ The hardware design includes:
 - **AXI Interconnect**: Facilitates communication between the processing system and peripherals.
 - **PmodENC**: Official xilinx ip, connected via AXI Lite GPIO for reading encoder values.
 
+![Design](design_1.png)
+
 ## How to Use
 
 ### Prerequisites
